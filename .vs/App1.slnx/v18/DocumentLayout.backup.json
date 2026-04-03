@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Proj\\WinUI\\App1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F8BFF3-E934-9168-DF4B-6D90D984A753}|App1\\App1.csproj|c:\\proj\\winui\\app1\\app1\\app1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B7F8BFF3-E934-9168-DF4B-6D90D984A753}|App1\\App1.csproj|solutionrelative:app1\\app1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F8BFF3-E934-9168-DF4B-6D90D984A753}|App1\\App1.csproj|c:\\proj\\winui\\app1\\app1\\app1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B7F8BFF3-E934-9168-DF4B-6D90D984A753}|App1\\App1.csproj|solutionrelative:app1\\app1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F8BFF3-E934-9168-DF4B-6D90D984A753}|App1\\App1.csproj|c:\\proj\\winui\\app1\\app1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7F8BFF3-E934-9168-DF4B-6D90D984A753}|App1\\App1.csproj|solutionrelative:app1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F8BFF3-E934-9168-DF4B-6D90D984A753}|App1\\App1.csproj|c:\\proj\\winui\\app1\\app1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B7F8BFF3-E934-9168-DF4B-6D90D984A753}|App1\\App1.csproj|solutionrelative:app1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F8BFF3-E934-9168-DF4B-6D90D984A753}|App1\\App1.csproj|c:\\proj\\winui\\app1\\app1\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7F8BFF3-E934-9168-DF4B-6D90D984A753}|App1\\App1.csproj|solutionrelative:app1\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F8BFF3-E934-9168-DF4B-6D90D984A753}|App1\\App1.csproj|c:\\proj\\winui\\app1\\app1\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7F8BFF3-E934-9168-DF4B-6D90D984A753}|App1\\App1.csproj|solutionrelative:app1\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F8BFF3-E934-9168-DF4B-6D90D984A753}|App1\\App1.csproj|c:\\proj\\winui\\app1\\app1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7F8BFF3-E934-9168-DF4B-6D90D984A753}|App1\\App1.csproj|solutionrelative:app1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 186,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App1",
+              "DocumentMoniker": "C:\\Proj\\WinUI\\App1\\App1\\App1.csproj",
+              "RelativeDocumentMoniker": "App1\\App1.csproj",
+              "ToolTip": "C:\\Proj\\WinUI\\App1\\App1\\App1.csproj",
+              "RelativeToolTip": "App1\\App1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-03T03:45:03.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App1.csproj",
+              "DocumentMoniker": "C:\\Proj\\WinUI\\App1\\App1\\App1.csproj",
+              "RelativeDocumentMoniker": "App1\\App1.csproj",
+              "ToolTip": "C:\\Proj\\WinUI\\App1\\App1\\App1.csproj",
+              "RelativeToolTip": "App1\\App1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-03T03:04:23.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Proj\\WinUI\\App1\\App1\\Models\\Supplier.cs",
+              "RelativeDocumentMoniker": "App1\\Models\\Supplier.cs",
+              "ToolTip": "C:\\Proj\\WinUI\\App1\\App1\\Models\\Supplier.cs",
+              "RelativeToolTip": "App1\\Models\\Supplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T01:16:17.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Proj\\WinUI\\App1\\App1\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "App1\\Models\\Product.cs",
+              "ToolTip": "C:\\Proj\\WinUI\\App1\\App1\\Models\\Product.cs",
+              "RelativeToolTip": "App1\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T12:56:24.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Proj\\WinUI\\App1\\App1\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "App1\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Proj\\WinUI\\App1\\App1\\Services\\ProductService.cs",
+              "RelativeToolTip": "App1\\Services\\ProductService.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAqwGYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T23:57:38.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Proj\\WinUI\\App1\\App1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "App1\\MainWindow.xaml",
+              "ToolTip": "C:\\Proj\\WinUI\\App1\\App1\\MainWindow.xaml",
+              "RelativeToolTip": "App1\\MainWindow.xaml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-02T12:23:03.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Proj\\WinUI\\App1\\App1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "App1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Proj\\WinUI\\App1\\App1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "App1\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAD4v58AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T12:23:23.507Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
