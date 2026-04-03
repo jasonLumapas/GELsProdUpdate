@@ -48,15 +48,18 @@
         
         <StackPanel Margin="20" Orientation="Horizontal" VerticalAlignment="Center" Spacing="10">
             <TextBlock Text="Widrawal Price:" VerticalAlignment="Center"/>
-            <TextBox x:Name="WidrawalTextBox" Width="200" />
+            <TextBox x:Name="WidrawalTextBox" BeforeTextChanging="DecimalTextBox_BeforeTextChanging"
+            Width="200" />
         </StackPanel>
         <StackPanel Margin="20" Orientation="Horizontal" VerticalAlignment="Center" Spacing="10">
             <TextBlock Text="Retail Price:" VerticalAlignment="Center"/>
-            <TextBox x:Name="RetailTextBox" Width="200"/>
+            <TextBox x:Name="RetailTextBox" BeforeTextChanging="DecimalTextBox_BeforeTextChanging"
+                     Width="200"/>
         </StackPanel>
         <StackPanel Margin="20" Orientation="Horizontal" VerticalAlignment="Center" Spacing="10">
             <TextBlock Text="Number of Pieces per box:" VerticalAlignment="Center"/>
-            <TextBox x:Name="PiecesPerBoxTextBox" Width="200"/>
+            <TextBox x:Name="PiecesPerBoxTextBox" BeforeTextChanging="NumberOnlyTextBox_BeforeTextChanging"
+                     Width="200"/>
         </StackPanel>
         <Button x:Name="ApplyButton" Click="ApplyButton_Click">Apply</Button>
     </StackPanel>

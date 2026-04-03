@@ -15,8 +15,10 @@ using System.Diagnostics;
 using System.IO;
 using System.Linq;
 using System.Runtime.InteropServices.WindowsRuntime;
+using System.Text.RegularExpressions;
 using Windows.Foundation;
 using Windows.Foundation.Collections;
+using System.Text.RegularExpressions;
 
 // To learn more about WinUI, the WinUI project structure,
 // and more about our project templates, see: http://aka.ms/winui-project-info.
@@ -124,6 +126,27 @@ namespace App1
 
         private void SuppliersAutoSuggestBox_QuerySubmitted(AutoSuggestBox sender, AutoSuggestBoxQuerySubmittedEventArgs args)
         {
+        }
+
+        private void DecimalTextBox_BeforeTextChanging(TextBox sender, TextBoxBeforeTextChangingEventArgs args)
+        {
+            // Allows: 123, 123.45, .45
+            var regex = new Regex(@"^\d*\.?\d{0,2}$");
+
+            if (!regex.IsMatch(args.NewText))
+            {
+                args.Cancel = true;
+            }
+        }
+
+        private void NumberOnlyTextBox_BeforeTextChanging(TextBox sender, TextBoxBeforeTextChangingEventArgs args)
+        {
+            var regex = new Regex(@"^\d*$"); // only digits
+
+            if (!regex.IsMatch(args.NewText))
+            {
+                args.Cancel = true;
+            }
         }
 
         private void ApplyButton_Click(object sender, RoutedEventArgs e)
